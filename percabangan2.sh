@@ -3,7 +3,7 @@
 printf "jajan apa yang kamu suka? \n"
 printf "lumpiah ?\n"
 printf "siomay ?\n"
-printf "batagor ?\n"
+printf "pentol ?\n"
 
 read jajan
 
